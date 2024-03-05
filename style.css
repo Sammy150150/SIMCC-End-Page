@@ -45,3 +45,8 @@ footer h2 {
   padding-top: 10px;
   padding-left: 10px;
 }
+@media (max-width: 705px){
+  .name {
+    display: none;
+  }
+}
