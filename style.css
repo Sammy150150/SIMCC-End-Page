@@ -1,0 +1,47 @@
+* {
+  font-family: "Roboto", sans-serif;
+}
+.logo, .icon {
+  height: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgb(42, 73, 154);
+  height: 40px;
+  font-size: 15px;
+}
+.right-nav {
+  display: flex;
+  justify-content: space-between;
+}
+.nav-content {
+  color: white;
+  margin: 0px 10px 0px 10px;
+  white-space: nowrap;
+}
+.things {
+  margin: 20px 10px 0px 10px;
+  border: 1px solid black;
+  border-radius: 5px;
+  padding-left: 20px;
+}
+.header-1 {
+  font-weight: 400;
+}
+.header-2 {
+  font-weight: 300;
+}
+footer {
+  background-color: rgb(65, 182, 255);
+  height: 50px;
+}
+footer h2 {
+  font-weight: 400;
+  font-size: 17px;
+  padding-top: 10px;
+  padding-left: 10px;
+}
